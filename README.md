@@ -2,9 +2,17 @@
 
 Most people know what they want. They just haven't taken the first step.
 
-Nudge is a small set of prompts and templates you install into your AI coding assistant (Codex, Claude Code, Cursor, Hermes, anything that reads markdown). Your agent runs you through a short exercise that turns the things you keep saying you want into actions you take this week.
+Nudge is a small set of prompts and templates you install into the AI assistant you already run daily. Claude Code, Codex, Cursor, Hermes, whatever you use as your life OS, not just your coding tool. Your agent runs you through a short exercise that turns the things you keep saying you want into actions you take this week.
 
 Not next month. Not Monday. Today, before you close the chat.
+
+## Who this is for
+
+You already talk to your agent every day. You use it to draft emails, plan your week, think through decisions, manage your life. Your agent isn't just a coding tool. It's the operating system for how you get things done.
+
+Nudge fits into that. It's not a coding skill. There's no code to write, no repo to build, no deploy. It's a life exercise that your agent runs you through, the same way it runs you through a weekly review or a decision matrix.
+
+If your agent is just a code completion tool to you, this isn't for you. If your agent is a daily thinking partner, this is for you.
 
 ## The problem it solves
 
